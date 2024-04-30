@@ -4,7 +4,7 @@ CRUD in JS involves creating, reading, updating, and deleting data in a database
 
 This project works with 3 collections allowing for crud functionality for all. Based on a database for a store keeping data about customer, items and orders.
 
-//node-modules are required to run this
+//node-modules are required to run this <br>
 start up db in terminal<br>
 ![Screenshot 2024-04-30 191654](https://github.com/DanGore04/CRUDFunctionality-Js/assets/161526710/1c1afd71-c502-471e-a8e8-8cafdc9a6b00)
 
